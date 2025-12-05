@@ -8,6 +8,7 @@ User stories
 Som användare vill jag kunna boka datum och tid samt ange antal spelare så att jag kan reservera 1 eller flera baner i bowlinghallen.
 Acceptanskriterier:
 
+
 Användaren ska kunna välja ett datum och en tid från ett kalender- och tidvalssystem.
 Användaren ska kunna ange antal spelare (minst 1 spelare).
 Användaren ska kunna reservera ett eller flera banor beroende på antal spelare.
